@@ -1,0 +1,2 @@
+# latihanIgit
+latihan pertama git
